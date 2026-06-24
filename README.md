@@ -8,7 +8,7 @@ conversational AI, and text-to-speech.
 
 > ⚠️ **This is the local development version.**
 > Production backend with hosted models is deployed on Hugging Face:
-> 👉 [huggingface.co/spaces/amarre/speakease-models](https://huggingface.co/spaces/amarre/speakease-models)
+> 👉 [huggingface.co/spaces/amarre/speakease-models](https://huggingface.co/amarre)
 
 ## 🔗 Related Repositories
 - **Flutter App:** [SpeakEase_App](https://github.com/Amar-77/SpeakEase_App)
